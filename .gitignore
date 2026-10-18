@@ -1,0 +1,8 @@
+/vendor/
+/.phpunit.cache/
+.phpunit.result.cache
+/.phpunit-watcher.yml
+/.idea/
+/.vscode/
+.env
+.env.*
